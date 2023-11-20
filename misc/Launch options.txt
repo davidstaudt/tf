@@ -1,0 +1,1 @@
+"/home/dstaudt/snap/steam/common/.local/share/Steam/steamapps/common/Team Fortress 2/tf/misc/hl2_start.sh" %command%

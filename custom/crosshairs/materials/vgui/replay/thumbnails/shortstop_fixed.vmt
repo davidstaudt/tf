@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	$baseTexture		"vgui/replay/thumbnails/shortstop_fixed"
+	$vertexColor		1
+	$no_fullBright		1
+	$ignoreZ			1
+	$translucent		1
+}
